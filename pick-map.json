@@ -1,5 +1,5 @@
 {
   "litepick.io": ["user1", "user2"],
   "bnbpick.io": ["user3"],
-  "*": ["defaultuser"]
+  "solpick.io": ["user4", "user5"]
 }
