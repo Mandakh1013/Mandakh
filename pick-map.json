@@ -1,1 +1,14 @@
-
+{
+  "domains": {
+    "litepick.io": [
+      "user1",
+      "user2",
+      "user3"
+    ],
+    "solpick.io": [
+      "alpha",
+      "beta",
+      "gamma"
+    ]
+  }
+}
